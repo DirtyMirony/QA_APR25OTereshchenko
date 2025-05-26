@@ -3,4 +3,6 @@
 3. "@" key is obligatory to enter
 4. Unique password is chosen for new registration
 5. Redirection to Sign in page
+HEAD
 
+ 22cb3b8 (Add sign_in and sign_up tests)
